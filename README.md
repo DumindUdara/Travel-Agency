@@ -1,2 +1,2 @@
 # Travel-Agency
-I developed Travel-Agency web site using HTML,CSS, JS and Bootstrap.
+I developed a website Travel-Agency using HTML, CSS, JS and Bootstrap.
