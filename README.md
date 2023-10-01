@@ -1,6 +1,6 @@
 # Travel-Agency
 
-![Travel](./Planing Desing.jpg)
+![Tailus astro based theme](https://github.com/DumindUdara/Travel-Agency/blob/master/Planing%20Desing.jpg)
 
 ## Introduction
 
