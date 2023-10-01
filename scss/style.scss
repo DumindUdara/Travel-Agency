@@ -1,0 +1,21 @@
+@import "functions";
+@import "variables";
+@import "mixins";
+
+$primary: #1A374D;
+$secondary: #6998AB;
+$black: #000000;
+$white: #ffffff;
+$grey: #5b5656;
+$heading_color: #000;
+$text_light_color: #a0a4ab;
+
+
+$font-family: 'Source Serif Pro', serif;
+$font-family-sans-serif: 'Inter', sans-serif;
+
+@import 'site-base';
+@import 'site-navbar';
+@import 'site-blocks';
+@import 'site-elements';
+@import 'site-footer';
